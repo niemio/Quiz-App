@@ -1,3 +1,5 @@
+Deployed in https://niemio.github.io/Quiz-App/
+
 The name of the application is "Quiz App"
 
 The app has three screens topics, questions and statistics. Statistics shows user specific amount of correctly answered questions. When user opens the application again the amount of correctly answered is the same as before closing.
